@@ -1,6 +1,7 @@
 import "./global.css"
-import { Login } from "./Components/Login";
+
 import { ThemeProvider } from "@material-tailwind/react";
+
 
  
 
