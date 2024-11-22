@@ -1,5 +1,5 @@
-import app from "./src/app.js"
-
-const PORT = 3000;app.listen(PORT, () => {
-    console.log("servidor escutando!");
-});
+import app from"./src/app.js"
+const port = 3000
+app.listen(port, () =>{
+    console.log("Servidor escutando")
+})
